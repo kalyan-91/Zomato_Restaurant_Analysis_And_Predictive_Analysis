@@ -41,6 +41,10 @@ git clone https://github.com/kalyan-91/Zomato_Restaurant_Analysis_And_Predictive
 The Excel dashboard file is available.  
 GitHub does not support previewing `.xlsx` files directly — click **"View raw"** to download and view the dashboard locally.
 
+## 📽️ Presentation
+You can also view the project summary in a structured format:
+➡️ [Download Presentation](./Zomato_Presentation(1).pptx)
+
 ## 📂 Note
 - Dataset is not uploaded due to size/privacy
 - Make sure required Python libraries are installed
