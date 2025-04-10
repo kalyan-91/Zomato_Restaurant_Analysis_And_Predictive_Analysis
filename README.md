@@ -9,17 +9,26 @@ Data analysis and machine learning project using Zomato restaurants data . Inclu
 
 ## 📁 Project Structure
 
-| File Name                        | Description                                 |
-|----------------------------------|---------------------------------------------|
-| `README.md`                      | Project overview and details                |
-| `_data_cleaning.ipynb`           | Data cleaning and preprocessing             |
-| `_statistical_analysis.ipynb`    | descripitive statistics and hyothetical testings      |
-| `Visualizations.ipynb`           | Visual exploration of the dataset           |
-| `_business_insights.ipynb`       | Key findings and business insights          |
-| `_linear_regression.ipynb`       | Linear regression model for predictions     |
-| `_logistic_regression.ipynb`     | Logistic regression classification model    |
-| `decision_tree_classifier.ipynb` | Decision tree classification model          |
-| `dashboard.xlsm`                 | Excel dashboard and visuals   |
+| File Name                        | Description                                                        |
+|----------------------------------|--------------------------------------------------------------------|
+| `README.md`                      | Project overview and details                                       |
+| `_data_cleaning.ipynb`           | Data cleaning and preprocessing                                    |
+| `_statistical_analysis.ipynb`    | Descriptive statistics, hypothesis testing, and correlation tests  |
+| `Visualizations.ipynb`           | Visual exploration of the dataset                                  |
+| `_business_insights.ipynb`       | Key findings and business insights                                 |
+| `_linear_regression.ipynb`       | Linear regression model for predictions                            |
+| `_logistic_regression.ipynb`     | Logistic regression classification model                           |
+| `decision_tree_classifier.ipynb` | Decision tree classification model                                 |
+| `dashboard.xlsm`                 | Excel dashboard with charts and slicers                            |
+| `Zomato_Presentation.pptx`       | Project summary and key visuals in presentation format            
+ 
+
+The dataset used in this project is publicly available on Kaggle in raw format (before cleaning and preprocessing):
+
+🔗 https://www.kaggle.com/datasets/pranavuikey/zomato-eda
+
+⚠️ Note: The dataset on Kaggle is uncleaned. All necessary data cleaning, preprocessing, and feature engineering steps are included in the notebooks provided in this repository.
+
 
 ## 📈 Key Features
 - Cleaned and preprocessed real-world restaurant data
