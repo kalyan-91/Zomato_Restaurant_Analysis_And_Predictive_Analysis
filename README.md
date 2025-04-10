@@ -43,7 +43,7 @@ GitHub does not support previewing `.xlsx` files directly — click **"View raw"
 
 ## 📽️ Presentation
 You can also view the project summary in a structured format:
-➡️ [Download Presentation](Zomato_Presentation(1).pptx)
+➡️ [Download Presentation](Zomato_Presentation (1).pptx)
 
 ## 📂 Note
 - Dataset is not uploaded due to size/privacy
