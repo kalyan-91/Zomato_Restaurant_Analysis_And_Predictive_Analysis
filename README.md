@@ -37,6 +37,10 @@ git clone https://github.com/kalyan-91/Zomato_Restaurant_Analysis_And_Predictive
 3. Run notebooks in the order of data cleaning → analysis → modeling
 4. Open `dashboard.xlsm` in Excel to explore dashboard
 
+## 📊 Dashboard
+The Excel dashboard file is available.  
+GitHub does not support previewing `.xlsx` files directly — click **"View raw"** to download and view the dashboard locally.
+
 ## 📂 Note
 - Dataset is not uploaded due to size/privacy
 - Make sure required Python libraries are installed
